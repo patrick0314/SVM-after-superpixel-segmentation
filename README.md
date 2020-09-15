@@ -1,5 +1,3 @@
-un-update edge_texture_add folder and BSDS300 folder
-
 # SVM-after-Superpixel-Segmentation
 
 In this paper, we proposed a new framework and successfully applied the SVM on superpixels. Finally, the experiments on BSDS300 dataset showed the effectiveness of our proposed framework.
