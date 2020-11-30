@@ -31,3 +31,5 @@ You can run the file `demo.m`. This file use BSDS300 as the examples and the res
 | ![](https://i.imgur.com/rx0z43y.jpg) | ![](https://i.imgur.com/dMBNWMB.jpg) |
 | ![](https://i.imgur.com/XDrUPio.jpg) | ![](https://i.imgur.com/lTLAthM.jpg) |
 | ![](https://i.imgur.com/eEHy73T.jpg) | ![](https://i.imgur.com/hVcWVz0.jpg) |
+
+###### tags: `github`
